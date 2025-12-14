@@ -1,0 +1,1 @@
+# Contiene normas legales y un dataset de imágenes con letras y números.
